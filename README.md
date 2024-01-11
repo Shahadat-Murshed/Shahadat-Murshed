@@ -53,6 +53,7 @@
         />
       </a>
       <br />
+      <br />
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
       </a>
@@ -86,6 +87,7 @@
           height="40"
         />
       </a>
+      <br />
       <br />
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img

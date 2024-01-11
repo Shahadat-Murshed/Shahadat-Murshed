@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **php, laravel, computers.**
+- 💬 Ask me about **php, laravel, pc components.**
 
 - 📫 How to reach me **shahadat.murshed@gmail.com**
 

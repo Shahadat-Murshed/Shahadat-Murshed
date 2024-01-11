@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-// - 👨‍💻 All of my projects are available at [https://shahadat-murshed.github.io/Portfolio/](https://shahadat-murshed.github.io/Portfolio/)
-
 - 💬 Ask me about **php, laravel, computers.**
 
 - 📫 How to reach me **shahadat.murshed@gmail.com**

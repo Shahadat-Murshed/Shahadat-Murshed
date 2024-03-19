@@ -68,7 +68,7 @@
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+          src="https://img.icons8.com/fluency/96/laravel.png"
           alt="laravel"
           width="40"
           height="40"
